@@ -1,0 +1,23 @@
+{
+  "name": "uxp",
+  "version": "0.0.1",
+  "description": "Types for UXP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jardicc/uxp.git"
+  },
+  "keywords": [
+    "UXP",
+    "Adobe"
+  ],
+  "author": "Jaroslav Bereza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jardicc/uxp/issues"
+  },
+  "homepage": "https://github.com/jardicc/uxp#readme"
+}
